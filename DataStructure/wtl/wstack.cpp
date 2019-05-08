@@ -1,28 +1,30 @@
 #include "pch.h"
+#include "wstack.h"
 
-int main( int argc, char* argv[] )
-{
+// 테스트 코드
+
+/*
 	{
-		wfixed_stack< int, 5 > s;
+	wfixed_stack< int, 5 > s;
 
-		for( int i = 0; i < 6; ++i )
-		{
-			if( s.push( i ) )
-				s.print();
-			else
-				std::cout << "stack is full" << std::endl;
-		}
-		std::cout << "peek() = " << s.peek() << std::endl;
-
-		for( int i = 0; i < 6; ++i )
-		{
-			if( s.pop() )
-				s.print();
-			else
-				std::cout << "stack is empty" << std::endl;
-		}
+	for( int i = 0; i < 6; ++i )
+	{
+		if( s.push( i ) )
+			s.print();
+		else
+			std::cout << "stack is full" << std::endl;
 	}
-	
+	std::cout << "peek() = " << s.peek() << std::endl;
+
+	for( int i = 0; i < 6; ++i )
+	{
+		if( s.pop() )
+			s.print();
+		else
+			std::cout << "stack is empty" << std::endl;
+	}
+		}
+
 	{
 		wdynamic_stack< int > s;
 
@@ -65,6 +67,4 @@ int main( int argc, char* argv[] )
 				s.print();
 		}
 	}
-
-	return 0;
-}
+*/
