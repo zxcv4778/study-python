@@ -13,3 +13,4 @@
 #include "wmacro.h"
 
 #include "wstack.h"
+#include "wqueue.h"

@@ -3,66 +3,45 @@
 int main( int argc, char* argv[] )
 {
 	{
-		wfixed_stack< int, 5 > s;
-
-		for( int i = 0; i < 6; ++i )
+		wcircular_queue< int, 5 > q;
+		for ( int i = 1; i < 6; ++i )
 		{
-			if( s.push( i ) )
-				s.print();
-			else
-				std::cout << "stack is full" << std::endl;
+			q.enqueue(i);
+			q.print();
 		}
-		std::cout << "peek() = " << s.peek() << std::endl;
 
-		for( int i = 0; i < 6; ++i )
+		for ( int i = 0; i < 3; ++i )
 		{
-			if( s.pop() )
-				s.print();
-			else
-				std::cout << "stack is empty" << std::endl;
+			q.dequeue();
+			q.print();
+		}
+
+		for ( int i = 1; i < 4; ++i )
+		{
+			q.enqueue( i * 10);
+			q.print();
 		}
 	}
 	
 	{
-		wdynamic_stack< int > s;
-
-		for( int i = 0; i < 5; ++i )
+		std::cout << "wlist_queue" << std::endl;
+		wlist_queue< int > q;
+		for ( int i = 1; i < 6; ++i )
 		{
-			s.push( i );
-			s.print();
+			q.enqueue(i);
+			q.print();
 		}
 
-		std::cout << "peek() = " << s.peek() << std::endl;
-
-		for( int i = 0; i < 5; ++i )
+		for ( int i = 0; i < 3; ++i )
 		{
-			s.pop();
-
-			if( s.empty() )
-				std::cout << "stack is empty" << std::endl;
-			else
-				s.print();
-		}
-	}
-
-	{
-		wlist_stack< int > s;
-		for( int i = 0; i < 5; ++i )
-		{
-			s.push( i );
-			s.print();
+			q.dequeue();
+			q.print();
 		}
 
-		std::cout << "peek() = " << s.peek() << std::endl;
-
-		for( int i = 0; i < 5; ++i )
+		for ( int i = 1; i < 4; ++i )
 		{
-			s.pop();
-
-			if( s.empty() )
-				std::cout << "stack is empty" << std::endl;
-			else
-				s.print();
+			q.enqueue(i * 10);
+			q.print();
 		}
 	}
 
