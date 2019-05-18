@@ -2,48 +2,32 @@
 
 int main( int argc, char* argv[] )
 {
-	{
-		wcircular_queue< int, 5 > q;
-		for ( int i = 1; i < 6; ++i )
-		{
-			q.enqueue(i);
-			q.print();
-		}
+	wbinary_tree<int> tree;
 
-		for ( int i = 0; i < 3; ++i )
-		{
-			q.dequeue();
-			q.print();
-		}
+	//// GeeksOfGeeks
+	//tree.insert( 50 );
+	//tree.insert( 40 );
+	//tree.insert( 70 );
+	//tree.insert( 60 );
+	//tree.insert( 80 );
 
-		for ( int i = 1; i < 4; ++i )
-		{
-			q.enqueue( i * 10);
-			q.print();
-		}
-	}
+	tree.insert( 12 );
+	tree.insert( 5 );
+	tree.insert( 15 );
+	tree.insert( 3 );
+	tree.insert( 1 );
+	tree.insert( 13 );
+	tree.insert( 14 );
+	tree.insert( 17 );
+	tree.insert( 19 );
+	tree.insert( 18 );
+
+	// tree.print( PRINT_ORDER_TYPE::PRE );
+	tree.print( PRINT_ORDER_TYPE::IN );
+	// tree.print( PRINT_ORDER_TYPE::POST );
+
+	tree.erase( 15 );
+	tree.print( PRINT_ORDER_TYPE::IN );
 	
-	{
-		std::cout << "wlist_queue" << std::endl;
-		wlist_queue< int > q;
-		for ( int i = 1; i < 6; ++i )
-		{
-			q.enqueue(i);
-			q.print();
-		}
-
-		for ( int i = 0; i < 3; ++i )
-		{
-			q.dequeue();
-			q.print();
-		}
-
-		for ( int i = 1; i < 4; ++i )
-		{
-			q.enqueue(i * 10);
-			q.print();
-		}
-	}
-
 	return 0;
 }

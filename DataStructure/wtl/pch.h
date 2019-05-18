@@ -14,3 +14,4 @@
 
 #include "wstack.h"
 #include "wqueue.h"
+#include "wtree.h"
