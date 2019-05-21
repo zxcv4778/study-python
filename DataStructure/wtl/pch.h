@@ -11,7 +11,9 @@
 #include <list>
 
 #include "wmacro.h"
+#include "common.h"
 
 #include "wstack.h"
 #include "wqueue.h"
 #include "wtree.h"
+#include "wheap.h"
