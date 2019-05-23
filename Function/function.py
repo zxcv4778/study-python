@@ -93,13 +93,13 @@ say_myself("marcus", 28)
 say_myself('민지', 25, False)
 
 # 초깃값이 앞에 올 때
-
-def say_myself2(name, man=True, old):
-    print('나의 이름은 %s입니다.' %name)
-    print('나이는 %d살 입니다.' %old)
-    if man:
-        print("남자입니다.")
-    else:
-        print("여자입니다.")
-
-say_myself2("marcus", 28)
+#
+# def say_myself2(name, man=True, old):
+#     print('나의 이름은 %s입니다.' %name)
+#     print('나이는 %d살 입니다.' %old)
+#     if man:
+#         print("남자입니다.")
+#     else:
+#         print("여자입니다.")
+#
+# say_myself2("marcus", 28)
