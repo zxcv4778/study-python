@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef482fa1-7fb7-4682-80f1-4e30685a9a1b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercise/chapter4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileIO/FileIO" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileIO/fileio.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileIO/sys1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserIO/USERIO.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserIO/userio.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sunpython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sunpython.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Function/function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Function/function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class/CLASS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class/class.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,35 +24,30 @@
     <SUITE FILE_PATH="coverage/sunpython$variable.coverage" NAME="variable Coverage Results" MODIFIED="1558498013415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/sunpython$sys1.coverage" NAME="sys1 Coverage Results" MODIFIED="1558598680993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/sunpython$function.coverage" NAME="function Coverage Results" MODIFIED="1558589684526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/sunpython$chapter4.coverage" NAME="chapter4 Coverage Results" MODIFIED="1558599453267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sunpython$class.coverage" NAME="class Coverage Results" MODIFIED="1558601783243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sunpython$chapter4.coverage" NAME="chapter4 Coverage Results" MODIFIED="1558601557884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/sunpython$string_type.coverage" NAME="string_type Coverage Results" MODIFIED="1558363421755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/sunpython$tuple_type.coverage" NAME="tuple_type Coverage Results" MODIFIED="1558422202858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Class/class.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" selection-start-line="11" selection-end-line="19" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exercise/chapter4.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="26" column="21" lean-forward="true" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FileIO/fileio.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="855">
-              <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercise/chapter3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="26" selection-start-line="26" selection-end-line="26" selection-end-column="45" />
+        <entry file="file://$PROJECT_DIR$/Class/CLASS">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="355">
+                <caret line="33" column="7" lean-forward="true" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -112,6 +99,8 @@
         <option value="$PROJECT_DIR$/FileIO/sys1.py" />
         <option value="$PROJECT_DIR$/FileIO/FileIO" />
         <option value="$PROJECT_DIR$/Exercise/chapter4.py" />
+        <option value="$PROJECT_DIR$/Class/class.py" />
+        <option value="$PROJECT_DIR$/Class/CLASS" />
       </list>
     </option>
   </component>
@@ -136,22 +125,7 @@
             <path>
               <item name="sunpython" type="b2602c69:ProjectViewProjectNode" />
               <item name="sunpython" type="462c0819:PsiDirectoryNode" />
-              <item name="ControlStatement" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sunpython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sunpython" type="462c0819:PsiDirectoryNode" />
-              <item name="data_type" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sunpython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sunpython" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sunpython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sunpython" type="462c0819:PsiDirectoryNode" />
-              <item name="FileIO" type="462c0819:PsiDirectoryNode" />
+              <item name="Class" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -178,7 +152,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.chapter4">
+  <component name="RunManager" selected="Python.class">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="sunpython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -223,6 +197,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="class" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="sunpython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class/class.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="fileio" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="sunpython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -237,28 +233,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FileIO/fileio.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="true" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="function" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="sunpython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Function/function.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="true" />
@@ -312,19 +286,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.function" />
       <item itemvalue="Python.userio" />
       <item itemvalue="Python.fileio" />
       <item itemvalue="Python.sys1" />
       <item itemvalue="Python.chapter4" />
+      <item itemvalue="Python.class" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.class" />
         <item itemvalue="Python.chapter4" />
         <item itemvalue="Python.sys1" />
         <item itemvalue="Python.fileio" />
         <item itemvalue="Python.userio" />
-        <item itemvalue="Python.function" />
       </list>
     </recent_temporary>
   </component>
@@ -339,12 +313,12 @@
       <option name="presentableId" value="Default" />
       <updated>1557193973919</updated>
       <workItem from="1557193975576" duration="1975000" />
-      <workItem from="1557562665761" duration="61570000" />
+      <workItem from="1557562665761" duration="63216000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63545000" />
+    <option name="totallyTimeSpent" value="65191000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="6" />
@@ -678,14 +652,31 @@
     <entry file="file://$PROJECT_DIR$/FileIO/fileio.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="855">
-          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercise/chapter4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="26" column="21" lean-forward="true" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+        <state relative-caret-position="193">
+          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class/class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class/CLASS">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="355">
+            <caret line="33" column="7" lean-forward="true" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
