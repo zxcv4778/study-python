@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef482fa1-7fb7-4682-80f1-4e30685a9a1b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercise/chapter2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise/chapter3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,38 +21,24 @@
     <SUITE FILE_PATH="coverage/sunpython$string_type.coverage" NAME="string_type Coverage Results" MODIFIED="1558363421755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/sunpython$tuple_type.coverage" NAME="tuple_type Coverage Results" MODIFIED="1558422202858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/sunpython$list_type.coverage" NAME="list_type Coverage Results" MODIFIED="1558417239981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sunpython$chapter3.coverage" NAME="chapter3 Coverage Results" MODIFIED="1558585751918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exercise/chapter2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="55" column="107" selection-start-line="55" selection-start-column="107" selection-end-line="55" selection-end-column="107" />
+            <state relative-caret-position="253">
+              <caret line="46" column="14" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data_type/LIST.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-2970">
-                <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data_type/DATATYPE.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-2059">
-                <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-              </first_editor>
-              <second_editor />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exercise/chapter3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="373">
+              <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -94,6 +80,8 @@
         <option value="$PROJECT_DIR$/data_type/variable.py" />
         <option value="$PROJECT_DIR$/data_type/VARIABLE.md" />
         <option value="$PROJECT_DIR$/Exercise/chapter2.py" />
+        <option value="$PROJECT_DIR$/ControlStatement/ControlStatement.md" />
+        <option value="$PROJECT_DIR$/Exercise/chapter3.py" />
       </list>
     </option>
   </component>
@@ -114,6 +102,11 @@
             <path>
               <item name="sunpython" type="b2602c69:ProjectViewProjectNode" />
               <item name="sunpython" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sunpython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sunpython" type="462c0819:PsiDirectoryNode" />
+              <item name="ControlStatement" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sunpython" type="b2602c69:ProjectViewProjectNode" />
@@ -150,7 +143,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.chapter2">
+  <component name="RunManager" selected="Python.chapter3">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="sunpython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -187,6 +180,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise/chapter2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chapter3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="sunpython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise/chapter3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="true" />
@@ -239,28 +254,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tuple_type" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="sunpython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_type/tuple_type.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="true" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="variable" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="sunpython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -284,19 +277,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.tuple_type" />
       <item itemvalue="Python.dictionary_type" />
       <item itemvalue="Python.set_type" />
       <item itemvalue="Python.variable" />
       <item itemvalue="Python.chapter2" />
+      <item itemvalue="Python.chapter3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.chapter3" />
         <item itemvalue="Python.chapter2" />
         <item itemvalue="Python.variable" />
         <item itemvalue="Python.set_type" />
         <item itemvalue="Python.dictionary_type" />
-        <item itemvalue="Python.tuple_type" />
       </list>
     </recent_temporary>
   </component>
@@ -311,23 +304,23 @@
       <option name="presentableId" value="Default" />
       <updated>1557193973919</updated>
       <workItem from="1557193975576" duration="1975000" />
-      <workItem from="1557562665761" duration="46737000" />
+      <workItem from="1557562665761" duration="50402000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48712000" />
+    <option name="totallyTimeSpent" value="52377000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16720517" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16720517" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23357664" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23357664" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -542,20 +535,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data_type/LIST.md">
+    <entry file="file://$PROJECT_DIR$/ControlStatement/ControlStatement">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-2970">
-            <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-          </first_editor>
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ControlStatement/ControlStatement.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
           <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercise/chapter2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="55" column="107" selection-start-line="55" selection-start-column="107" selection-end-line="55" selection-end-column="107" />
+        <state relative-caret-position="253">
+          <caret line="46" column="14" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_type/LIST.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="690">
+            <caret line="46" column="34" selection-start-line="46" selection-start-column="34" selection-end-line="46" selection-end-column="34" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise/chapter3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
         </state>
       </provider>
     </entry>
