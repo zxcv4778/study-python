@@ -2,28 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef482fa1-7fb7-4682-80f1-4e30685a9a1b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DataStructurePython/Stack/STACK" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructurePython/Stack/Stack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exception/EXCEPTIONS" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exception/exception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module/MODULE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module/mod1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module/mod2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module/module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Packages/Game/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Packages/Game/graphic/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Packages/Game/graphic/render.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Packages/Game/graphic/screen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Packages/Game/play/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Packages/Game/play/run.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Packages/Game/play/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Packages/Game/sound/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Packages/Game/sound/echo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Packages/Game/sound/wav.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Packages/PACKAGES" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Packages/packages.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonFunctions/BuiltIn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonFunctions/function1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructurePython/Queue/Q" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructurePython/Queue/Queue.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/sunpython$Stack.coverage" NAME="Stack Coverage Results" MODIFIED="1559565750192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sunpython$Stack.coverage" NAME="Stack Coverage Results" MODIFIED="1559639791681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/sunpython$hello_world.coverage" NAME="hello_world Coverage Results" MODIFIED="1558337787082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/sunpython$number_type.coverage" NAME="number_type Coverage Results" MODIFIED="1558340687796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/sunpython$exception.coverage" NAME="exception Coverage Results" MODIFIED="1559200339363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -49,6 +29,7 @@
     <SUITE FILE_PATH="coverage/sunpython$variable.coverage" NAME="variable Coverage Results" MODIFIED="1558498013415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/sunpython$sys1.coverage" NAME="sys1 Coverage Results" MODIFIED="1558598680993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/sunpython$module.coverage" NAME="module Coverage Results" MODIFIED="1559109588854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sunpython$Queue.coverage" NAME="Queue Coverage Results" MODIFIED="1559643557432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/sunpython$function.coverage" NAME="function Coverage Results" MODIFIED="1558589684526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/sunpython$class.coverage" NAME="class Coverage Results" MODIFIED="1559108070375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/sunpython$chapter4.coverage" NAME="chapter4 Coverage Results" MODIFIED="1558601557884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -61,30 +42,27 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DataStructurePython/Stack/Stack.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="64" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DataStructurePython/Stack/STACK">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-245">
-                <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
-              </first_editor>
-              <second_editor />
+            <state relative-caret-position="195">
+              <caret line="51" column="22" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PythonFunctions/BuiltIn">
+        <entry file="file://$PROJECT_DIR$/DataStructurePython/Queue/Queue.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="42" selection-start-line="42" selection-end-line="96" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DataStructurePython/Queue/Q">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-5135">
-                <caret line="86" column="6" selection-start-line="86" selection-start-column="6" selection-end-line="86" selection-end-column="6" />
+              <first_editor relative-caret-position="315">
+                <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
               </first_editor>
               <second_editor />
             </state>
@@ -141,8 +119,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/data_type/number_type.py" />
         <option value="$PROJECT_DIR$/data_type/string_type.py" />
         <option value="$PROJECT_DIR$/data_type/DATATYPE" />
         <option value="$PROJECT_DIR$/data_type/list_type.py" />
@@ -192,6 +168,8 @@
         <option value="$PROJECT_DIR$/PythonFunctions/BuiltIn" />
         <option value="$PROJECT_DIR$/DataStructurePython/Stack/Stack.py" />
         <option value="$PROJECT_DIR$/DataStructurePython/Stack/STACK" />
+        <option value="$PROJECT_DIR$/DataStructurePython/Queue/Queue.py" />
+        <option value="$PROJECT_DIR$/DataStructurePython/Queue/Q" />
       </list>
     </option>
   </component>
@@ -232,6 +210,12 @@
               <item name="sunpython" type="b2602c69:ProjectViewProjectNode" />
               <item name="sunpython" type="462c0819:PsiDirectoryNode" />
               <item name="DataStructurePython" type="462c0819:PsiDirectoryNode" />
+              <item name="Queue" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sunpython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sunpython" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructurePython" type="462c0819:PsiDirectoryNode" />
               <item name="Stack" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -264,7 +248,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Stack">
+  <component name="RunManager" selected="Python.Queue">
+    <configuration name="Queue" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="sunpython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructurePython/Queue/Queue.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Stack" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="sunpython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -353,28 +359,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="module" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="sunpython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Module/module.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="true" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="packages" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="sunpython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -398,19 +382,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.module" />
       <item itemvalue="Python.packages" />
       <item itemvalue="Python.exception" />
       <item itemvalue="Python.function1" />
       <item itemvalue="Python.Stack" />
+      <item itemvalue="Python.Queue" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Queue" />
         <item itemvalue="Python.Stack" />
         <item itemvalue="Python.function1" />
         <item itemvalue="Python.exception" />
         <item itemvalue="Python.packages" />
-        <item itemvalue="Python.module" />
       </list>
     </recent_temporary>
   </component>
@@ -425,12 +409,12 @@
       <option name="presentableId" value="Default" />
       <updated>1557193973919</updated>
       <workItem from="1557193975576" duration="1975000" />
-      <workItem from="1557562665761" duration="94456000" />
+      <workItem from="1557562665761" duration="99746000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96431000" />
+    <option name="totallyTimeSpent" value="101721000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1280" height="777" extended-state="6" />
@@ -463,19 +447,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DataStructure/wtl/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructure/wtl/common.h">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructure/wtl/common.cpp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/data_type/VARIABLE">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -807,18 +778,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructurePython/Stack/Stack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="64" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DataStructurePython/Stack/STACK">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="-245">
             <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructurePython/Stack/STACK.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="26" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="26" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructurePython/Stack/Stack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="51" column="22" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructurePython/Queue/Queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="42" selection-start-line="42" selection-end-line="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructurePython/Queue/Q">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="315">
+            <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
           </first_editor>
           <second_editor />
         </state>
